@@ -1,0 +1,9 @@
+[package]
+name        = "bignum"
+version     = "0.0.0"
+description = "A library for performing arbitrary-precision arithmetic"
+authors     = ["RJ Rybarczyk <rj@rybar.tech>"]
+license     = "CC0-1.0"
+homepage    = "https://github.com/rrybarczyk/bignum"
+readme      = "README.md"
+edition     = "2018"
